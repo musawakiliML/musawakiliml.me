@@ -1,0 +1,20 @@
+---
+title: "Musa Wakili ML"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/musawakiliML
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/musa-adamu-wakili-711704154/
+    - icon: github
+      text: Github
+      href: https://github.com/musawakiliML
+
+---
+I am a passionate Essentialist Programmer, Minimalist and Machine Learning Enthusiast.
+In this blog i post my notebooks containing code or explanation of my projects and analysis.
+
